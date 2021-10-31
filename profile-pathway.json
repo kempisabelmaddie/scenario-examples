@@ -116,6 +116,11 @@
         "title": "Visual Studio Code - Install extensions",
         "description": "Install VS Code extensions using background scripts",
         "id": "vscode-extensions"
+      },
+      {
+        "title": "Sales Marketing",
+        "description": "team 1",
+        "id": "sales-marketing"
       }
     ]
   }
